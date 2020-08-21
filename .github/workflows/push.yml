@@ -44,6 +44,6 @@ jobs:
       with:
         msgtype: text
         content: |
-          优伴图标库更新啦🎉
+          优伴图标库更新成功啦🎉
           请使用 yarn upgrade uabn-vue-icon --latest 更新。
           在线查看图标：https://Agan-sgtx.github.io/uban-vue-icon/
