@@ -1,5 +1,5 @@
 {
-  "name": "Uban-vue-icon",
+  "name": "uban-vue-icon",
   "version": "0.0.0",
   "description": "Juuust Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
